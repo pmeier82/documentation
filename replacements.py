@@ -11,6 +11,7 @@ replacements = """
 .. |robot|                  replace:: :ref:`sec-robot`
 .. |database|               replace:: :ref:`sec-database`
 .. |blackboard|             replace:: :ref:`sec-blackboard`
+.. |amlttp|                 replace:: :ref:`sec-amlttp`
 .. |amtoolbox|              replace:: `Auditory Modeling Toolbox`_
 .. |LatestVersion|          replace:: `the latest version`_
 .. |AuditoryFrontEndKS|     replace:: :ref:`AuditoryFrontEndKS <sec-afe-knowledge-source>`
@@ -25,4 +26,5 @@ replacements = """
 .. |RotationKS|             replace:: :ref:`RotationKS <sec-rotation-knowledge-source>`
 .. |SegmentationKS|         replace:: :ref:`SegmentationKS <sec-segmentation-knowledge-source>`
 .. |SegmentIdentityKS|      replace:: :ref:`SegmentIdentityKS <sec-segmentation-identity-knowledge-source>`
+.. |NumberOfSourcesKS|      replace:: :ref:`NumberOfSourcesKS <sec-number-of-sources-knowledge-source>`
 """
