@@ -8,6 +8,9 @@ Auditory Machine Learning Training and Testing Pipeline
     :maxdepth: 1
 
     overview/index
+    usage/index
+    api/index
+    examples/index
 
 The Auditory Machine Learning Training and Testing Pipeline (AMLTTP) is an object-oriented framework for building and
 evaluating models for auditory sound object annotation and assigning

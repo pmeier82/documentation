@@ -1,0 +1,18 @@
+.. _sec-amlttp-examples:
+
+Examples
+========
+
+.. toctree::
+    :maxdepth: 1
+
+    identificationfullstream
+    identificationsegstream
+    numsrcs
+    jointidloc
+
+Text that explains each of the above.The purpose of the |amlttp| is bring together components of the |TwoEars| system and faciliatate...TODO
+
+
+
+.. vim: filetype=rst spell:

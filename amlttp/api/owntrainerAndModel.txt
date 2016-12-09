@@ -1,0 +1,8 @@
+.. _sec-amlttp-owntrainer-and-model:
+
+Create your own Model and Trainer
+---------------------------------
+
+.. contents::
+    :depth: 1
+    :local:
