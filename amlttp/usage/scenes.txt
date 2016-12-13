@@ -6,3 +6,20 @@ Setting up Scenes
 .. contents::
     :depth: 1
     :local:
+
+The |amlttp| is capable of generating auditory scenes under various conditions. The generation is performed by the |BinSim|. The |amlttp| takes care of setting up the simulator and drive it to produce scenes under specific and various conditions using a dataset of sound files.
+
+A scene is configured by specifying:
+* The room
+* Individual sound sources
+* The SNRs of the sound sources relative to one another
+* Charactersitics of the virtual head in the room (e.g. orientation)
+* The duration of the sounds
+
+This instantiates a scene configuration:
+::
+
+   sc = SceneConfig.SceneConfiguration();
+   
+By default the scene is configured so that sound sources are positioned at 0° azimuth relative
+to the head. There is no interfering noise, and no reverberation (i.e. free-field conditions).

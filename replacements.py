@@ -11,7 +11,8 @@ replacements = """
 .. |robot|                  replace:: :ref:`sec-robot`
 .. |database|               replace:: :ref:`sec-database`
 .. |blackboard|             replace:: :ref:`sec-blackboard`
-.. |amlttp|                 replace:: :ref:`sec-amlttp`
+.. |amlttpRef|              replace:: :ref:`sec-amlttp`
+.. |amlttp|                 replace:: :abbr:`AMLTTP (Auditory Machine Learning Training and Testing Pipeline)`
 .. |amtoolbox|              replace:: `Auditory Modeling Toolbox`_
 .. |LatestVersion|          replace:: `the latest version`_
 .. |AuditoryFrontEndKS|     replace:: :ref:`AuditoryFrontEndKS <sec-afe-knowledge-source>`

@@ -12,8 +12,11 @@ Usage
     select-model
     runningAndCache
 
-Text that explains each of the above.The purpose of the |amlttp| is bring together components of the |TwoEars| system and faciliatate...TODO
-
-
+The above sections describe the individual steps of the pipeline and their usage. Namely:
+* generating auditory scenes under various conditions,
+* selecting a target and assigning a label to individual sound blocks for a model to target (e.g sound type classification ground truth),
+* selecting a set of features to extracting for each sound block, 
+* selecting a model,
+* running the pipeline.
 
 .. vim: filetype=rst spell:
